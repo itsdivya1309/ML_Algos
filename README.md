@@ -3,4 +3,4 @@
 
 This repository contains Machine Learning projects which use different algorithms from regression and classification to clustering.
 
-1. Linear Regression
+1. Linear Regression: used the medical cost personal dataset (from Kaggle). The aim is to predict the insurance cost. Hence, created a predictive model using Linear Regression.
