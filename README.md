@@ -1,6 +1,7 @@
-# ML_Algos
+# Hands-on Machine Learning
 ![istockphoto-844535726-612x612](https://user-images.githubusercontent.com/108270861/236766519-8e27556b-ff4b-4aa2-a494-76ccbaad6538.jpg)
 
-This repository contains Machine Learning projects which use different algorithms from regression and classification to clustering.
+This repository contains the notebooks I created while following the popular book **Hands-on Machine Learning with Sci-Kit-Learn and TensorFlow**
+(https://www.google.co.in/books/edition/Hands_On_Machine_Learning_with_Scikit_Le/HnetDwAAQBAJ?hl=en&gbpv=1&dq=hands+on+machine+learning+with+scikit-learn+and+tensorflow+pdf&printsec=frontcover)
 
-1. Linear Regression: used the medical cost personal dataset (from Kaggle). The aim is to predict the insurance cost. Hence, created a predictive model using Linear Regression.
+1. Performance measure: different metrics to measure model performance and compare different classification models.
