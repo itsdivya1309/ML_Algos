@@ -3,7 +3,7 @@
 
 This repository contains my Machine Learning projects.
 
-1. Performance measure: different metrics to measure model performance and compare different classification models.
+1. **Performance measure**: different metrics to measure model performance and compare different classification models.
 2. **DecisionTree Classification** : its a project on the popular kaggle dataset https://www.kaggle.com/datasets/pablomgomez21/drugs-a-b-c-x-y-for-decision-trees
 
 *Problem statement*: You have collected data about a set of patients, all of whom suffered from the same illness. During their course of treatment, each patient responded to one of 5 medications, Drug A, Drug B, Drug c, Drug x and y.Build a model to find out which drug might be appropriate for a future patient with the same illness. The features of this dataset are Age, Sex, Blood Pressure, and the Cholesterol of the patients, and the target is the drug that each patient responded to.
