@@ -1,8 +1,8 @@
 # Hands-on Machine Learning
 ![istockphoto-844535726-612x612](https://user-images.githubusercontent.com/108270861/236766519-8e27556b-ff4b-4aa2-a494-76ccbaad6538.jpg)
 
-This repository contains the notebooks I created while following the popular book **Hands-on Machine Learning with Sci-Kit-Learn and TensorFlow**
-
-**Book link ->**(https://www.google.co.in/books/edition/Hands_On_Machine_Learning_with_Scikit_Le/HnetDwAAQBAJ?hl=en&gbpv=1&dq=hands+on+machine+learning+with+scikit-learn+and+tensorflow+pdf&printsec=frontcover)
+This repository contains my Machine Learning projects.
 
 1. Performance measure: different metrics to measure model performance and compare different classification models.
+2. **DecisionTree Classification** : its a project on the popular kaggle dataset https://www.kaggle.com/datasets/pablomgomez21/drugs-a-b-c-x-y-for-decision-trees
+*Problem statement*: You have collected data about a set of patients, all of whom suffered from the same illness. During their course of treatment, each patient responded to one of 5 medications, Drug A, Drug B, Drug c, Drug x and y.Build a model to find out which drug might be appropriate for a future patient with the same illness. The features of this dataset are Age, Sex, Blood Pressure, and the Cholesterol of the patients, and the target is the drug that each patient responded to.
